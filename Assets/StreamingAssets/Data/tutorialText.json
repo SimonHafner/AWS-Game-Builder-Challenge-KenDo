@@ -1,0 +1,74 @@
+{
+    "de": [
+        "Hallo, Denksportsfreund! Ich bin Brainard, dein persönlich-er Gehirntrainer.",
+        "Jede Zahl muss in jeder Rei-he und Spalte gleich oft vor-kommen wie ihr Wert.",
+        "Klicke auf das Feld und setze die <color=#00BFFF>Zahl 1</color> ein, um die Reihe zu vervollständigen!",
+        "Merke: <color=#FF2F6B>Keine Zahl</color> darf mehr als <color=#FF2F6B>zweimal hintereinander</color> in einer Reihe stehen!",
+        "Klicke jetzt auf das markierte Feld und setze die <color=#00FF00>Zahl 3</color> an der richtigen Stelle ein!",
+        "Du hast den Dreh raus! Fülle die restlichen Felder aus, um das Rätsel zu lösen!"
+    ],
+    "en": [
+        "Hello, champ! I'm Brainard, and I'm here to assist you as your personal brain trainer.",
+        "In every row and column, each number must appear as many times as its value.",
+        "Click on the cell and fill in the <color=#00BFFF>number 1</color> to complete the row!",
+        "Remember: <color=#FF2F6B>No number</color> must appear <color=#FF2F6B>more than twice</color> next to eachother.",
+        "Now, click on the highlighted cell to place the <color=#00FF00>number 3</color> in the right spot!",
+        "You've got it! Fill in the re-maining numbers and solve the puzzle!"
+    ],
+    "fr": [
+        "Salut, sportif de l'esprit! Je suis Brainard, ton entraîneur cérébral personnel!",
+        "Chaque nombre doit appa-raître selon sa valeur dans les lignes et colonnes.",
+        "Clique sur la case et place le <color=#00BFFF>nombre 1</color> pour compléter la ligne!",
+        "N'oublie pas: <color=#FF2F6B>Aucun nombre</color> ne peut apparaître <color=#FF2F6B>plus de deux fois</color> de suite.",
+        "Maintenant, clique sur la case pour placer le <color=#00FF00>nombre 3</color> à l'endroit correct.",
+        "Tu as tout compris! Complète les nombres manquants pour résoudre le puzzle!"
+    ],
+    "it": [
+        "Ciao, atleta della mente! Sono Brainard, il tuo alle-natore cerebrale personale!",
+        "Ogni numero deve apparire tante volte quanto il suo valore in righe e colonne.",
+        "Clicca sulla cella e inserisci il <color=#00BFFF>numero 1</color> per completare la riga!",
+        "Ricorda: <color=#FF2F6B>Nessun numero</color> può apparire <color=#FF2F6B>più di due volte</color> di seguito.",
+        "Ora clicca sulla cella eviden-ziata per inserire il <color=#00FF00>numero 3</color> nel posto giusto!",
+        "Hai capito il meccanismo! Inserisci i numeri mancanti e risolvi il puzzle!"
+    ],
+    "es": [
+        "¡Hola, deportista mental!\nSoy Brainard, tu entrenador cerebral personal!",
+        "Cada número debe aparecer tantas veces como su valor en filas y columnas.",
+        "¡Haz clic en la celda y coloca el <color=#00BFFF>número 1</color> para completar la fila!",
+        "Recuerda: <color=#FF2F6B>Ningún número</color> puede aparecer <color=#FF2F6B>más de dos veces</color> seguidas.",
+        "¡Haz clic en la celda mar-cada para colocar el <color=#00FF00>número 3</color> en el lugar correcto!",
+        "¡Lo has entendido! ¡Comple-ta los números restantes y resuelve el rompecabezas!"
+    ],
+    "pt": [
+        "Olá, atleta mental!\nSou Brainard, seu treinador cerebral pessoal!",
+        "Cada número deve aparecer tantas vezes quanto seu va-lor em linhas e colunas.",
+        "Clique na célula e coloque o <color=#00BFFF>número 1</color> para completar a linha!",
+        "Lembre-se: <color=#FF2F6B>Nenhum número</color> pode aparecer <color=#FF2F6B>mais de duas vezes</color> seguidas.",
+        "Agora clique na célula marcada para colocar o <color=#00FF00>número 3</color> no lugar certo!",
+        "Você pegou o jeito! Complete os números restantes e re-solva o puzzle!"
+    ],
+    "ru": [
+            "Привет, гимнаст ума! Я Brainard, твой персональный тренер мозга!",
+            "Каждое число должно встречаться столько раз, каково его значение.",
+            "Нажми на клетку и поставь <color=#00BFFF>цифру 1</color>, чтобы заполнить ряд!",
+            "Помни: <color=#FF2F6B>Никакое число</color> не может стоять <color=#FF2F6B>больше двух раз</color> подряд.",
+            "Теперь нажми на отмеченную клетку, чтобы поставить <color=#00FF00>цифру 3</color> в нужное место!",
+            "Ты понял принцип! Заполни оставшиеся числа и реши головоломку!"
+        ],
+    "zh": [
+        "你好，思维运动员！我是Brainard，你的私人大脑教练！",
+        "每个数字在每行每列出现的次数必须等于它的数值。",
+        "点击格子并填入<color=#00BFFF>数字1</color>来完成这一行！",
+        "请记住：<color=#FF2F6B>任何数字</color>都不能<color=#FF2F6B>连续出现两次以上</color>。",
+        "现在点击标记的格子，将<color=#00FF00>数字3</color>放在正确的位置！",
+        "你已经掌握要领了！填入剩余的数字来解决这个谜题吧！"
+    ],
+    "ja": [
+        "こんにちは、脳トレアスリート！ブレナードです。私があなたの脳トレーナーを務めます！",
+        "各数字は、行と列にその値と同じ回数だけ表示される必要があります。",
+        "マスをクリックして<color=#00BFFF>数字1</color>を入れ、行を完成させましょう！",
+        "注意：<color=#FF2F6B>どの数字も</color><color=#FF2F6B>連続して3回以上</color>は置けません。",
+        "では、ハイライトされたマスをクリックして<color=#00FF00>数字3</color>を正しい位置に置いてください！",
+        "コツがわかりましたね！残りの数字を入れてパズルを解きましょう！"
+    ]
+}
